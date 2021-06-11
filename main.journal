@@ -11,5 +11,5 @@ D 0.00 EUR
 include aux.journal
 
 2021-07-01 Tx wo commodity
-    acc       1.01 = 3.03
+    acc       1.01 = 4.04
     inc
