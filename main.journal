@@ -1,3 +1,5 @@
+include aux.journal
+
 D 0.00 EUR
 
 2021-01-01 Tx wo commodity
@@ -8,8 +10,8 @@ D 0.00 EUR
     acc       1.01 EUR = 2.02
     inc
 
-include aux.journal
 
 2021-07-01 Tx wo commodity
     acc       1.01 = 4.04
     inc
+
