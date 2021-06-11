@@ -1,0 +1,7 @@
+2021-01-01 Tx wo commodity
+    acc       1.01 = 1.01
+    inc
+
+2021-02-01 Tx w commodity
+    acc       1.01 EUR = 2.02
+    inc
