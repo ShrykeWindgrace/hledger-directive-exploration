@@ -7,3 +7,9 @@ D 0.00 EUR
 2021-02-01 Tx w commodity
     acc       1.01 EUR = 2.02
     inc
+
+include aux.journal
+
+2021-07-01 Tx wo commodity
+    acc       1.01 = 3.03
+    inc
